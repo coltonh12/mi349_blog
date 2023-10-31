@@ -7,7 +7,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     margin: 50px;
     padding: 0;
-    
+
     color:white;
     border-top: 10px solid white;
     padding: 40px;
@@ -38,4 +38,8 @@ border-bottom: 1px dotted #ccc;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-
+.masthead {
+    background: no-repeat bottom;
+    height: 300px;
+    border-radius: 20px;
+}
