@@ -28,3 +28,8 @@ border-top: 1px dotted #ccc;
 .blog-post {
 border-bottom: 1px dotted #ccc;
 }
+
+main {
+    margin: 0 auto;
+    width: 800px;
+}
