@@ -1,4 +1,22 @@
 /* Add screen styles below */
 body {
     background-color:burlywood ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
+
+h1 {
+
+}
+
+p {
+
+}
+
+#blog {
+
+}
+
+.blog-post {
+
 }
