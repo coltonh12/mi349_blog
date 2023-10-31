@@ -5,7 +5,10 @@ html {
 body {
     background-color:rgb(75, 66, 66);
     font-family: 'Times New Roman', Times, serif;
-    margin: 50px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
     color:white;
     border-top: 10px solid white;
     padding: 40px;
