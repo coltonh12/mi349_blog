@@ -14,6 +14,8 @@ body {
 h1 { 
     font-size: 2em;
     margin: 0;
+    color: violet;
+    text-align: center;
 
 }
 
@@ -29,6 +31,10 @@ border-top: 1px dotted #ccc;
 
 .blog-post {
 border-bottom: 1px dotted #ccc;
+}
+
+article {
+    border-bottom: 1px solid #000;
 }
 
 
