@@ -10,7 +10,9 @@ body {
     border-top: 10px solid white;
 }
 
-h1 {
+h1 { 
+    font-size: 3em;
+    margin: 0;
 
 }
 
