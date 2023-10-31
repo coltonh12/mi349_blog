@@ -43,3 +43,9 @@ border-bottom: 1px dotted #ccc;
     height: 300px;
     border-radius: 20px;
 }
+
+h2 {
+    font-size: 1.5em;
+    margin: 0;
+    color: violet;
+}
