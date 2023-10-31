@@ -1,8 +1,9 @@
 /* Add screen styles below */
 body {
-    background-color:burlywood ;
+    background-color:black ;
     font-family: 'Times New Roman', Times, serif;
-    margin: 20px;
+    margin: 50px;
+    color:white;
 }
 
 h1 {
