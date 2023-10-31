@@ -15,7 +15,7 @@ h1 {
     font-size: 2em;
     margin: 0;
     color: violet;
-    
+
 }
 
 p {
@@ -32,8 +32,8 @@ border-top: 1px dotted #ccc;
 border-bottom: 1px dotted #ccc;
 }
 
-article {
-    border-bottom: 1px solid #000;
+#page-title {
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
