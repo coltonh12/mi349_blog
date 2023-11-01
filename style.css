@@ -81,7 +81,7 @@ img[alt="Picture of Harry Kane"] {
 img[alt="Picture of golden boot winners"] {
     border: 2px solid black;
     width: 200px;
-    margin-left: 2px;
+    margin-left: 20px;
 }
 p {
     margin: 10px 0;
