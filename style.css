@@ -72,6 +72,7 @@ td {
     border: 1px solid #ccc;
     padding: 8px;
 }
-article.blog-post-2 {
-    background-color: black;
+
+img[alt="Picture of Harry Kane"] {
+    border: 2px solid red;
 }
