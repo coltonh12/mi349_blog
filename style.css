@@ -75,9 +75,10 @@ td {
 
 img[alt="Picture of Harry Kane"] {
     border: 2px solid black;
+    width: 300px;
 }
 
 img[alt="Picture of golden boot winners"] {
     border: 2px solid black;
-    width: 400x;
+    width: 300x;
 }
