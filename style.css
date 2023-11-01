@@ -5,12 +5,15 @@ html {
 body {
     background-color:rgb(75, 66, 66);
     font-family: 'Times New Roman', Times, serif;
-    margin: 50px;
-    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
     font-size: larger;
     color:white;
     border-top: 10px solid white;
-    padding: 40px;
+    
 }
 
 h1 { 
