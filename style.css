@@ -94,3 +94,6 @@ ul {
 a {
     color: black;
 }
+.bold-text {
+    font-weight: bold;
+}
