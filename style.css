@@ -87,3 +87,6 @@ p {
     margin: 10px 0;
     padding: 0 20px;
 }
+p {
+    text-align: center 50px;
+}
