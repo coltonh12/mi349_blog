@@ -105,10 +105,18 @@ a {
     top: 0;
 }
 
-.img-container img {
-    height: 60px;
+.img-container {
+    height: 50px;
     width: 50x;
     float: right;
     margin-left: 20px;
-    font-size: small;
+}
+
+.image-container img {
+    max-width: 100%;
+}
+
+.image-container figcaption{
+    text-align: center;
+    font-style: italic;
 }
