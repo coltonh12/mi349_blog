@@ -98,3 +98,9 @@ a {
     font-weight: bold;
     color: black;
 }
+
+.sticky {
+    background: black;
+    position: sticky;
+    top: 0;
+}
