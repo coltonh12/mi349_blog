@@ -138,8 +138,7 @@ header, footer {
 .container {
    display: flex;
    margin: 0 auto;
-   max-width: 20px;
-   padding: 10px;
+   
 }
 
 .column {
