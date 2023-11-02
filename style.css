@@ -136,9 +136,10 @@ header, footer {
     padding: 20px;
 }
 .container {
-    display: flex;
-    padding: 20px;
-    max-width: 100px;
+   display: flex;
+   margin: 0 auto;
+   max-width: 20px;
+   padding: 10px;
 }
 
 .column {
