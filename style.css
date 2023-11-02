@@ -144,7 +144,7 @@ header, footer {
 .column {
     flex: 2;
     background-color: black;
-    border: 1px solid #ddd;
+    border-color: #333;
     padding: 0px;
-    margin: 0px;
+    margin: 5px;
 }
