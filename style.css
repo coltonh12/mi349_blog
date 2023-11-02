@@ -142,7 +142,7 @@ header, footer {
 }
 
 .column {
-    flex: 1;
+    flex: 2;
     background-color: black;
     border: 1px solid #ddd;
     padding: 10px;
