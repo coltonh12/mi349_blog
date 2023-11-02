@@ -117,7 +117,7 @@ a {
     float: left;
 }
 
-.image-container figcaption{
+.image-container caption{
     text-align: center;
     font-style: italic;
 }
