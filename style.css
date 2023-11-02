@@ -117,7 +117,7 @@ a {
     float: left;
 }
 
-.image-container caption{
+.image-container p{
     text-align: center;
     font-style: italic;
 }
