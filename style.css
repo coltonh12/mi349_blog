@@ -121,3 +121,12 @@ a {
     text-align: center;
     font-style: italic;
 }
+
+body {
+    color: white;
+}
+
+section {
+    background: #ccc;
+    display: flex;
+}
