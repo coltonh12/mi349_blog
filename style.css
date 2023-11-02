@@ -107,16 +107,13 @@ a {
 }
 
 .img-container {
-    height: 50px;
-    width: 50x;
-    float: right;
-    margin-left: 800px;
+   float: right;
+   margin-left: 10px;
 }
 
 .image-container img {
     max-width: 100%;
-    float: right;
-    margin-left:800px;
+    
 }
 
 .image-container p{
