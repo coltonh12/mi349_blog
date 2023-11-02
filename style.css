@@ -114,6 +114,7 @@ a {
 
 .image-container img {
     max-width: 100%;
+    float: right;
 }
 
 .image-container figcaption{
