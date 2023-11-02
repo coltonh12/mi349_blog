@@ -144,6 +144,6 @@ header, footer {
     flex: 1;
     background-color: black;
     border: 1px solid #ddd;
-    padding: 20px;
+    padding: 10px;
     margin: 10px;
 }
