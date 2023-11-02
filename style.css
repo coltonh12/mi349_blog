@@ -108,12 +108,7 @@ a {
 
 .img-container {
    float: right;
-   margin-left: 300px;
-}
-
-.image-container  {
-    max-width: 100%;
-    
+   margin-left: 20px;
 }
 
 .image-container p{
