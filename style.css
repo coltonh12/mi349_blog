@@ -131,7 +131,7 @@ header, footer {
     padding: 10px;
 }
 .container {
-   display: ;
+   display: flex;
    margin: 20px;
    
 }
